@@ -1,0 +1,122 @@
+[
+    {
+        "ImgPath": "images/img1.png",
+	    "Duration": 10,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 20000,
+	    "Height": 200,
+        "NumTones": 2,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img2.png",
+	    "Duration": 10,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 20000,
+	    "Height": 300,
+        "NumTones": 2,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img3.png",
+	    "Duration": 1,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 3000,
+	    "Height": 50,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img4.png",
+	    "Duration": 2,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 2000,
+	    "Height": 100,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img5.png",
+	    "Duration": 3,
+	    "SampleRate": 44100,
+	    "MinFreq": 5000,
+        "MaxFreq": 7000,
+	    "Height": 80,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img6.png",
+	    "Duration": 4,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 5000,
+	    "Height": 90,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img7.png",
+	    "Duration": 5,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 20000,
+	    "Height": 400,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img8.png",
+	    "Duration": 2,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 3000,
+	    "Height": 30,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img9.png",
+	    "Duration": 3,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 3000,
+	    "Height": 70,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img10.png",
+	    "Duration": 10,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 20000,
+	    "Height": 300,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img11.png",
+	    "Duration": 7,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 20000,
+	    "Height": 400,
+        "NumTones": 1,
+	    "Contrast": 1
+    },
+    {
+        "ImgPath": "images/img12.png",
+	    "Duration": 2,
+	    "SampleRate": 44100,
+	    "MinFreq": 1000,
+        "MaxFreq": 2000,
+	    "Height": 80,
+        "NumTones": 1,
+	    "Contrast": 1
+    }
+]
